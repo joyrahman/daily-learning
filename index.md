@@ -1,4 +1,4 @@
 ---
-title: Welcome to my daily learning blog
+title: Welcome to Joy's daily learning blog
 ---
 
